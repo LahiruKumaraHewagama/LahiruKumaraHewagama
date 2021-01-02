@@ -1,4 +1,4 @@
-<h2><img alt="Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>Hello! I'm Lahiru Kumara</h2>
+<h2>Hello! I'm Lahiru Kumara</h2>
 
 ### Education 👩‍🎓
 <a>BSC Eng.Hons, Department Computer Science and Engineering <img alt="Coding" src="./assets/cse.png" width='20'/> University of Moratuwa <img alt="Coding" src="./assets/uom.jpg" width='20'/></a>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using Java, Python and Javascript.
 -->
-<img alt="Coding" src="./assets/coding.gif" width="25%" align="right"/>
+<img alt="Coding" src="./assets/coding.gif" width="60%" align="right"/>
 
 ### Programming Languages 
 
