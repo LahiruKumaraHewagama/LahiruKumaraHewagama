@@ -1,4 +1,6 @@
-<h2>Hello! I'm Lahiru Kumara</h2>
+
+# Hello! I'm Lahiru Kumara <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 ### Education 👩‍🎓
 <a>BSC Eng.Hons, Department Computer Science and Engineering <img alt="Coding" src="./assets/cse.png" width='20'/> University of Moratuwa <img alt="Coding" src="./assets/uom.jpg" width='20'/></a>
