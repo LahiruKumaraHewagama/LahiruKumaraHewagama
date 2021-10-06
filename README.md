@@ -8,11 +8,11 @@
 <!-- ### Experiences 👨‍💻
 - Trainee Software Engineer at Wabtec corporation <img alt="wabtec" src="./assets/wabtec.png" width='40' />
 - Software Engineer at Syeta Labs <img alt="wabtec" src="./assets/syetaLabs.jpg" width='20' /> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LahiruKumaraHewagama&label=Profile%20views&color=0e75b6&style=flat" alt="LahiruKumaraHewagama" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=LahiruKumaraHewagama&label=Profile%20views&color=0e75b6&style=flat" alt="LahiruKumaraHewagama" /> </p>
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ✔ I’m currently working on **ReactJS** & **NodeJS**<br>
 ✔ Fun fact : *Still waiting for my letter from Hogwarts*<br><br><br><br>
-<img alt="Coding" src="./assets/coding.gif" width="60%" align="right"/>
+<img alt="Coding" src="./assets/coding.gif" width="60%" align="right"/> -->
 
 ### Programming Languages 
 
