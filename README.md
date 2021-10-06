@@ -8,23 +8,10 @@
 <!-- ### Experiences 👨‍💻
 - Trainee Software Engineer at Wabtec corporation <img alt="wabtec" src="./assets/wabtec.png" width='40' />
 - Software Engineer at Syeta Labs <img alt="wabtec" src="./assets/syetaLabs.jpg" width='20' /> -->
-
-<!--
-**MadhushaniHewagama/MadhushaniHewagama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using Java, Python and Javascript.
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LahiruKumaraHewagama&label=Profile%20views&color=0e75b6&style=flat" alt="LahiruKumaraHewagama" /> </p>
+✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ I’m currently working on **ReactJS** & **NodeJS**<br>
+✔ Fun fact : *Still waiting for my letter from Hogwarts*<br><br><br><br>
 <img alt="Coding" src="./assets/coding.gif" width="60%" align="right"/>
 
 ### Programming Languages 
@@ -48,7 +35,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 
-### 🗄️ Databases and cloud hosting
+### Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -60,9 +47,8 @@ Here are some ideas to get you started:
 </p>
 
 #### Other areas
-![Machnine Learning](https://img.shields.io/badge/-MachineLearning-000?)
-<!-- ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-000?) -->
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-000?)
+![Machnine Learning](https://img.shields.io/badge/-MachineLearning-000?&logo=MachineLearning)
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=Artificial%20Intelligence)
 
 #### tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
