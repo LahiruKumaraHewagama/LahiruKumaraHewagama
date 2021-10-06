@@ -11,8 +11,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=LahiruKumaraHewagama&label=Profile%20views&color=0e75b6&style=flat" alt="LahiruKumaraHewagama" /> </p>
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ✔ I’m currently working on **ReactJS** & **NodeJS**<br>
-✔ Fun fact : *Still waiting for my letter from Hogwarts*<br><br><br><br>
-<img alt="Coding" src="./assets/coding.gif" width="60%" align="right"/> -->
+✔ Fun fact : *Still waiting for my letter from Hogwarts*<br><br><br><br>-->
+<img alt="Coding" src="./assets/coding.gif" width="60%" align="right"/> 
 
 ### Programming Languages 
 
