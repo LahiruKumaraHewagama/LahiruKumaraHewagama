@@ -1,5 +1,5 @@
 
-# Hello!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Lahiru Kumara
+# Hello!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> I'm Lahiru Kumara
 
 
 ### Education 👩‍🎓
